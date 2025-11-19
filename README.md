@@ -28,3 +28,5 @@
   [![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/likecola)](https://github.com/likecola)
   [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white&link=https://www.notion.so/AI-Developer-3f514561de824f4ab9f07580038783d4?pvs=4)](https://www.notion.so/AI-Developer-3f514561de824f4ab9f07580038783d4?pvs=4)
 </div>
+
+![](./profile-3d-contrib/profile-season-animate.svg)
