@@ -26,13 +26,48 @@ LLM Developer with hands-on experience across the full AI development lifecycle�
 
 ### 🛠️ Tech Stack
 
-| Category | Technologies |
-|----------|-------------|
-| 🤖 **LLM & AI** | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) LLM Fine-tuning, RAG, Prompt Engineering |
-| 🛡️ **AI Safety** | Red Teaming, Bias Detection, Data Quality Control, Safety Evaluation |
-| ☁️ **Cloud & API** | Microsoft Azure, FastAPI, Azure OpenAI Service |
-| 📊 **Data & ML** | ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) |
-| 🎨 **Design** | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) |
+#### 🤖 LLM & AI Development
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM_Development-FF6B6B?style=flat-square)
+![Fine-tuning](https://img.shields.io/badge/Fine--tuning-4ECDC4?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-95E1D3?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-F38181?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-AA96DA?style=flat-square)
+![Chatbot](https://img.shields.io/badge/Chatbot_Development-FCBAD3?style=flat-square)
+
+#### 🛡️ AI Safety & Ethics
+![AI Safety](https://img.shields.io/badge/AI_Safety-DC3545?style=flat-square)
+![AI Ethics](https://img.shields.io/badge/AI_Ethics-6C757D?style=flat-square)
+![Responsible AI](https://img.shields.io/badge/Responsible_AI-28A745?style=flat-square)
+![Red Teaming](https://img.shields.io/badge/Red_Teaming-FFC107?style=flat-square)
+![Bias Detection](https://img.shields.io/badge/Bias_Detection-17A2B8?style=flat-square)
+![Trust & Safety](https://img.shields.io/badge/Trust_&_Safety-6610F2?style=flat-square)
+
+#### ☁️ Cloud & API
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-412991?style=flat-square&logo=microsoft-azure&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=flat-square)
+
+#### 📊 Data & ML
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
+![Data Labeling](https://img.shields.io/badge/Data_Labeling-00C853?style=flat-square)
+![Data Quality](https://img.shields.io/badge/Data_Quality_Control-FFAB00?style=flat-square)
+
+#### 💻 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-143?style=flat-square&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
+
+#### 🎨 Design
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white)
 
 ### 📌 Featured Projects
 
@@ -40,10 +75,4 @@ Coming soon: NYT Newsletter Automation, Content Safety Classifier
 
 ### 📫 Contact
 
-[![Tech Blog](https://img.shields.io/badge/-Tech%20blog-black?style=for-the-badge&logo=github&link=https://machinelog.tistory.com/)](https://machinelog.tistory.com/) 
-[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white&link=https://www.notion.so/AI-Developer-3f514561de824f4ab9f07580038783d4?pvs=4)](https://www.notion.so/AI-Developer-3f514561de824f4ab9f07580038783d4?pvs=4)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/llmeojin/)
-
----
-
-![](./profile-3d-contrib/profile-season-animate.svg)
+[![Tech Blog](https://img.shields.io/badge/-Tech%20blog-black?style=for-the-badge&logo=github&link=https://machinelog.tistory.com/)](https://machinelo
