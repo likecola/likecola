@@ -68,11 +68,3 @@ LLM Developer with hands-on experience across the full AI development lifecycle�
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white)
-
-### 📌 Featured Projects
-
-Coming soon: NYT Newsletter Automation, Content Safety Classifier
-
-### 📫 Contact
-
-[![Tech Blog](https://img.shields.io/badge/-Tech%20blog-black?style=for-the-badge&logo=github&link=https://machinelog.tistory.com/)](https://machinelo
